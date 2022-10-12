@@ -1,6 +1,6 @@
 {
     "telegram": {
-        "token": "5759064319:AAF4YK4JPMztvAciUhKrjuTUMqYkKQn7v0c"
+        "token": "bot_token"
     },
     "medusa": {
         "baseUrl": "http://localhost:9000"
