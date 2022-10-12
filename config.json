@@ -1,0 +1,18 @@
+{
+    "telegram": {
+        "token": "5759064319:AAF4YK4JPMztvAciUhKrjuTUMqYkKQn7v0c"
+    },
+    "medusa": {
+        "baseUrl": "http://localhost:9000"
+    },
+      "store":{
+        "name" : "my-store",
+        "url": "www.store.com"
+      },
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "telegram"
+    }
+}

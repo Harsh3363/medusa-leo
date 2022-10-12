@@ -1,0 +1,29 @@
+{
+  "name": "medusa-leo",
+  "version": "1.0.0",
+  "description": "Connect with your customers thorugh Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaggrwal/medusa-stonkers.git"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "medusajs",
+    "medusa-leo"
+  ],
+  "author": "kaggrwal",
+  "license": "MIT",
+  "dependencies": {
+    "@grammyjs/conversations": "^1.0.3",
+    "axios": "^1.1.2",
+    "grammy": "^1.11.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
