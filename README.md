@@ -12,7 +12,7 @@ Leo provies an integration between Telegram & Medusajs, Customers can check sear
 
 ### Preview
 
-![Demo](https://s4.gifyu.com/images/ezgif-3-c80d187e53.gif)
+![Demo](https://s4.gifyu.com/images/ezgif-3-45ed7d74f0.gif)
 
 ## Set up Project
 
