@@ -8,7 +8,7 @@ Kumar Aggarrwal - [Github](https://github.com/kaggrwal "@kaggrwal")  [Discord](h
 
 ### Description
 
-Leo provies an integration between Telegram & Medusajs, Customers can check search for products, check for their orders and look up their profile.
+Leo provies an integration between Telegram & Medusajs, Customers can search for products, check for their orders and look up their profile.
 
 ### Preview
 
